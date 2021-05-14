@@ -1,0 +1,13 @@
+<!DOCTYPE resources [
+]>
+<resources>
+    <string name="app_name">Breakfast Pizza Recipe</string>
+    <string name="bacon_breakfast_pizza">Bacon Breakfast Pizza</string>
+    <string name="view_recipe">View Recipe</string>
+    <string name="breakfast_pizza">Breakfast Pizza</string>
+    <string name="bacon_breakfast_pizza2">Bacon Breakfast Pizza</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="txtIngredientList"> 1 tube (13.8 ounces) refrigerated pizza crust\n2 tablespoons olive oil, divided\n6 large eggs\n2 tablespoons water\n1 package (3 ounces) bacon bits\n1 cup shredded Monterey Jack cheese\n1 cup shredded cheddar cheese</string>
+    <string name="directions">Directions</string>
+    <string name="txtDirectInstructions">1. Preheat oven to 400\u00B0. Unroll and press dough onto bottom and 1/2 in. up sides of a greased 15x10x1-in. pan.\n Prick thoroughly with a fork; brush with 1 tablespoon oil.\n Bake until lightly browned, 7-8 minutes\n\n2. Meanwhile, whisk together eggs and water. In a nonstick skillet, heat remaining oil over medium heat.\n Add eggs; cook and stir just until thickened and no liquid egg\n remains. Spoon over crust. Sprinkle with bacon bits and cheese.\n\n 3. Bake until cheese is melted, 5-7 minutes.</string>
+</resources>
